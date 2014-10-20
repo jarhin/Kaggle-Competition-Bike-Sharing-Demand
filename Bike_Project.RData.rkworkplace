@@ -1,0 +1,14 @@
+base::::file:///home/john/Kaggle/Competitions/Bike%20Sharing%20Demand
+script::::file:///home/john/Kaggle/Competitions/Bike%20Sharing%20Demand/TODO
+script::::file:///home/john/Kaggle/Competitions/Bike%20Sharing%20Demand/src/04-forecast_models_plots.R
+help::::rkward://rhelpbase/library/forecast/html/auto.arima.html
+help::::rkward://rhelpbase/library/forecast/html/forecast.Arima.html
+workspace::sidebar,0::
+commandlog::sidebar,3::
+filebrowser::sidebar,0::
+pendingjobs::sidebar,4::
+console::sidebar,3::
+helpsearch::sidebar,3::
+debugframes::sidebar,1::
+debugconsole::sidebar,4::
+rkdebugmessages::sidebar,4::

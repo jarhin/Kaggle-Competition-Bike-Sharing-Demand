@@ -1,0 +1,9 @@
+Bike Sharing Competition TODO
+
+AIM:
+- The point is to show that I can work well with time series data.
+
+TODO:
+- DEAL WITH MISSING VALUES/ROWS in TRAIN & TEST (datetime as specified in samplesubmission)
+- Write up analysis.
+- Upload to GITHUB.
